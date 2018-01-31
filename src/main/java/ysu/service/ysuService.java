@@ -11,4 +11,5 @@ package ysu.service;
  */
 public class ysuService
 {
+    public  int a=0;
 }
